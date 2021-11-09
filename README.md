@@ -1,6 +1,6 @@
 # PhoneBook__Management-System
 PhoneBook directory is an application that allows users to maintain records of other phone numbers. This is a simple  Project for demoing PhoneBook using C++ without using Graphical Interface.
-# Topic: THIS DEMONSTRATES THE PHONEBOOK MANAGEMENT SYSTEM WITH LINKED LIST SO THAT TRAVERSING CAN BE EASY.....
+# Topic: This Demonstrates The PhoneBook__Management-System With Linked List So That Traversing Can Be Easy.....
 #Phonebook management have three main operations:
 
 1.Insertion
